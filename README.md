@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
 
 ### Introduction
-This repository aims at helping new Java developers. It contains examples of simple programs and algorithms. 
+This repository aims at helping new Java developers. It contains examples of simple programs and algorithms. It will help you get an idea about developing in Java and the utilities you can use to enhance your skills.
 
 ### Main Topics
 
@@ -12,7 +12,7 @@ The following main topics have been contributed in this repository.
 
 - Data Structures
 - Algorithms
-- Android Projects
+- Android Projects (create your own cool apps!)
 - Machine Learning
 - Networking & Security
 - Objected-Oriented Programming (OOPs) 
